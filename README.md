@@ -15,5 +15,5 @@ https://SharePointDiary.Com
 https://www.powershellgallery.com/packages/AadSupportPreview
  
 Anybody else who is thinking of sueing me for copyright, 
-I acknowledge that you came with the idea first and i just read your mind afterwards (one acquires that skill after staying married to one+self for a long time)
+I acknowledge that you came with the idea first and i just read your mind afterwards (one acquires that skill after staying married for a long time)
 Just let me know please and i will add your name to the list above.
