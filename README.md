@@ -1,8 +1,7 @@
 # Tenant-Scripts
 PowerShell Scripts for various functions in a Microsoft Tenant.
 
-Some of these are my inventions(20%) and most of these are taken 
-from various other clever people's sites and blogs(80%) and then 
+10% of these are my inventions and 90% (inspired/blatantly copied from) other inspiring people/groups and then 
 modified to suite my purpose.
 
 My inspirations are mentioned below.
