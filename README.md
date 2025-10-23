@@ -7,4 +7,5 @@ modified to suite my purpose.
 
 There names and sites are mentioned below
 
+https://devblogs.microsoft.com/scripting/category/hey-scripting-guy/
 https://laurakokkarinen.com/
